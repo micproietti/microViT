@@ -1,0 +1,24 @@
+Best model: drop0.1_patch4_depth6 with test accuracy: 0.7185
+
+Random predictions:
+
+expected: horse      | predicted: dog
+expected: frog       | predicted: frog
+expected: truck      | predicted: truck
+expected: bird       | predicted: bird
+expected: horse      | predicted: horse
+expected: frog       | predicted: frog
+expected: bird       | predicted: dog
+expected: ship       | predicted: airplane
+expected: cat        | predicted: cat
+expected: bird       | predicted: bird
+expected: deer       | predicted: deer
+expected: deer       | predicted: bird
+expected: frog       | predicted: frog
+expected: automobile | predicted: automobile
+expected: bird       | predicted: bird
+expected: frog       | predicted: cat
+expected: cat        | predicted: deer
+expected: truck      | predicted: truck
+expected: cat        | predicted: cat
+expected: frog       | predicted: frog
