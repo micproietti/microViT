@@ -1,4 +1,4 @@
-# Mini-ViT
+# MicroViT
 
 A simple from-scratch implementation of a Vision Transformer (ViT) in PyTorch, inspired by the "mini" philosophy of `microGPT`.
 
@@ -23,5 +23,3 @@ The goal is to demonstrate how a Transformer can "see" by processing image patch
 
 ## Results
 The script compares training vs. testing accuracy across all variants to help visualize overfitting and the impact of architectural choices on small datasets.
-
-![Model Accuracies](accuracies.png)
