@@ -23,3 +23,4 @@ The goal is to demonstrate how a Transformer can "see" by processing image patch
 
 ## Results
 The script compares training vs. testing accuracy across all variants to help visualize overfitting and the impact of architectural choices on small datasets.
+![Results](accuracies.png "Accuracies plots")

@@ -15,6 +15,3 @@ env/
 # IDE settings
 .vscode/
 .idea/
-
-# Plots/Output
-accuracies.png
